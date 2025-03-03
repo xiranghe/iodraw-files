@@ -62,8 +62,11 @@
         <mxCell id="qEDHVxxD5F8gx1tmDXEr-26" value="B,64,128,128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="610" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qEDHVxxD5F8gx1tmDXEr-27" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="15" y="138" width="50" height="30" as="geometry" />
+        <mxCell id="qEDHVxxD5F8gx1tmDXEr-27" value="三个数据流" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry y="138" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qEDHVxxD5F8gx1tmDXEr-28" value="完善RGB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
