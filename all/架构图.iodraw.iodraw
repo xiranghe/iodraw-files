@@ -71,6 +71,9 @@
         <mxCell id="qEDHVxxD5F8gx1tmDXEr-29" value="两个尺度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="375" y="288" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="qEDHVxxD5F8gx1tmDXEr-30" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="690" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
