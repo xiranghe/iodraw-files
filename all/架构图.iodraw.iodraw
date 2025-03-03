@@ -59,6 +59,9 @@
         <mxCell id="qEDHVxxD5F8gx1tmDXEr-23" value="三平面选择" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="170" y="650" width="50" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="qEDHVxxD5F8gx1tmDXEr-26" value="B,64,128,128" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="535" y="338" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
