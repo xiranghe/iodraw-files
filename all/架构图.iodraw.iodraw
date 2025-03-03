@@ -13,7 +13,10 @@
         <mxCell id="qEDHVxxD5F8gx1tmDXEr-3" value="plane_xy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="490" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qEDHVxxD5F8gx1tmDXEr-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qEDHVxxD5F8gx1tmDXEr-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qEDHVxxD5F8gx1tmDXEr-4" target="qEDHVxxD5F8gx1tmDXEr-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qEDHVxxD5F8gx1tmDXEr-4" value="点云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="qEDHVxxD5F8gx1tmDXEr-6" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
